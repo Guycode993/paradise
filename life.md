@@ -1,1 +1,3 @@
-ECHO is on.
+#kadak
+Hello!
+Hello again
